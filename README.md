@@ -1,7 +1,6 @@
 <!-- Profil Başlık Alanı -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:84fab0,100:8fd3f4&height=200&section=header&text=Hi%20There!%20I'm%20İbrahim%20👋&fontSize=40&fontAlign=50&fontColor=ffffff" />
-</div>
+<h1 align="center" style="font-size: 40px; font-weight: bold; color: #ffffff;">Hi There! I'm İbrahim 👋</h1>
+
 
 <!-- Hakkımda Animasyonu -->
 <p align="center">
