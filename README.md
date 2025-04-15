@@ -1,12 +1,11 @@
 <!-- Profil Başlık Alanı -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C7AE&center=true&vCenter=true&width=435&lines=Flutter+Developer;Always+learning+new+things!" />
-</p>
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:84fab0,100:8fd3f4&height=200&section=header&text=Hi%20There!%20I'm%20İbrahim%20👋&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</div>
 
 <!-- Hakkımda Animasyonu -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C7AE&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase+%7C+GetX+%7C+Clean+UI+Lover;Always+learning+new+things!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C7AE&center=true&vCenter=true&width=435&lines=Flutter+Developer;Always+learning+new+things!" />
 </p>
 
 ---
