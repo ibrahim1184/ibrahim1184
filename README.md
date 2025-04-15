@@ -45,8 +45,3 @@ Sade ve kullanıcı dostu arayüzleri hayata geçirmeyi, animasyonlarla zenginle
   <a href="https://linkedin.com/in/ibrahim-uğur-850023215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:8fd3f4,100:84fab0&height=120&section=footer"/>
-</div>
