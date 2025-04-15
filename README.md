@@ -1,5 +1,5 @@
 <!-- Profil Başlık Alanı -->
-<h1 align="center" style="font-size: 40px; font-weight: bold; color: #ffffff;">Hi There! I'm İbrahim 👋</h1>
+<h1 align="center" style="font-size: 40px; font-weight: bold; color: #ffffff;">Merhaba ben İbrahim 👋</h1>
 
 
 <!-- Hakkımda Animasyonu -->
@@ -16,7 +16,7 @@ Sade ve kullanıcı dostu arayüzleri hayata geçirmeyi, animasyonlarla zenginle
 - 🚀 GetX ile hızlı ve düzenli projeler geliştiriyorum  
 - 📲 Firebase ile backend entegrasyonlarını kolayca hallediyorum  
 - 🎨 Figma'dan ilham alıp, pixel-perfect UI'lar çıkarıyorum  
-- 👨‍💻 Kodlamanın yanı sıra, karakalem ve el işi sanatlarla ilgileniyorum  
+- 👨‍💻 Kodlamalarımı clean architecture prensibine göre yapıyorum  
 - 🌱 Yeni teknolojileri keşfetmeyi ve sürekli öğrenmeyi seviyorum
 
 > *"Kod sadece satırlardan ibaret değil; her satırda biraz estetik, biraz düşünce ve biraz hayal gücü var."*
@@ -41,8 +41,8 @@ Sade ve kullanıcı dostu arayüzleri hayata geçirmeyi, animasyonlarla zenginle
 
 ### 📬 Bana Ulaş
 <p align="center">
-  <a href="mailto:ibrahim@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/ibrahimdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ibrahim.buu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ibrahim-uğur-850023215/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
