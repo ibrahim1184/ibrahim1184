@@ -1,53 +1,43 @@
-<h1 align="center">Hi 👋, I'm İbrahim</h1>
-<h3 align="center">A passionate Flutter Developer from Turkey</h3>
+<!-- Profil Başlık Alanı -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:84fab0,100:8fd3f4&height=200&section=header&text=Hi%20There!%20I'm%20İbrahim%20👋&fontSize=40&fontAlign=50&fontColor=ffffff" />
+</div>
 
+<!-- Hakkımda Kısmı -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ibrahimdev&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimdev" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00C7AE&center=true&vCenter=true&width=435&lines=Flutter+Developer;Firebase+%7C+GetX+%7C+Clean+UI+Lover;Always+learning+new+things!" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **an Instagram clone with Flutter & Firebase**
-
-- 🌱 I’m currently learning **API integration, GetX, and Cloud Firestore**
-
-- 👯 I’m looking to collaborate on **Flutter open-source projects**
-
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yourportfolio.com)
-
-- 💬 Ask me about **Flutter, Firebase, GetX, UI design**
-
-- 📫 How to reach me: **ibrahim@example.com**
-
-- ⚡ Fun fact: *I can create art using pencil & felt crafts besides coding*
+### 🙋‍♂️ Hakkımda
+- 🎯 Flutter geliştiricisiyim
+- 📱 UI/UX tasarımları koda dökmeyi seviyorum
+- 🔧 Şu anda bir Instagram klonu üzerinde çalışıyorum
+- 🌱 Firebase, GetX ve API ile ilgileniyorum
+- 🎨 Hobi olarak karakalem ve keçe işleriyle ilgileniyorum
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
-</p>
+### 🛠️ Kullandığım Teknolojiler
+<div align="center">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GetX-F231A5?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/ibrahimdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" /></a>
-  <a href="mailto:ibrahim@example.com" target="blank"><img align="center" src="https://img.icons8.com/ios-glyphs/30/000000/gmail.png" alt="gmail" /></a>
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
+### 📬 Bana Ulaş
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahimdev&show_icons=true&locale=en" alt="ibrahimdev" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimdev" alt="ibrahimdev" />
+  <a href="mailto:ibrahim@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ibrahimdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-<h3 align="center">"Code is like art — both require creativity and patience."</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wavy&color=0:8fd3f4,100:84fab0&height=120&section=footer"/>
+</div>
